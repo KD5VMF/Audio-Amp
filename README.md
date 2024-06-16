@@ -1,4 +1,4 @@
-# Audio-Amp.-
+# Audio-Amp.- Look at Schematic for new D1,D2. Docs will be updated...
 FigTroniX - 4 Ohm - 108 Watt Audio Amp. 48 Volts DC
 
 # FigTroniX Class AB Audio Amplifier
